@@ -3,3 +3,8 @@
 ## 링크
 
 코드 링크: https://github.com/zllrunning/video-object-removal
+
+## 세팅
+
+Python 3.6
+Pytorch 0.4
