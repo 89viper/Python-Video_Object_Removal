@@ -6,5 +6,5 @@
 
 ## 세팅
 
-Python 3.6
+Python 3.6<br/>
 Pytorch 0.4
